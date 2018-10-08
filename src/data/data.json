@@ -1,0 +1,33 @@
+[{
+        "name": "MYSQL",
+        "day": "60天",
+        "CPU": "2核心",
+        "chun": "4GB",
+        "xitong": "40G",
+        "shuju": "100G"
+    },
+    {
+        "name": "MYSQL",
+        "day": "30天",
+        "CPU": "2核心",
+        "chun": "4GB",
+        "xitong": "40G",
+        "shuju": "100G"
+    },
+    {
+        "name": "MYSQL",
+        "day": "60天",
+        "CPU": "2核心",
+        "chun": "4GB",
+        "xitong": "40G",
+        "shuju": "100G"
+    },
+    {
+        "name": "MYSQL",
+        "day": "30天",
+        "CPU": "2核心",
+        "chun": "4GB",
+        "xitong": "40G",
+        "shuju": "100G"
+    }
+]
